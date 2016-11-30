@@ -1,0 +1,43 @@
+*{
+	box-sizing: border-box;
+	margin: 0px;
+}
+
+body{
+	font-family: "Roboto", sans-serif
+}
+
+header{
+	background-color: orange;
+	position: relative;
+	width: 100%;
+	height: 100px;
+}
+
+h1{
+	margin: 0px;
+	padding-top: 10px;
+	padding-bottom: 8px;
+}
+
+/*h2, h3{
+	margin: 19px 0px 19px 0px;
+}*/
+
+main{
+	margin-top: 60px;
+}
+
+.card{
+	border: 2px solid grey;
+	margin-bottom: 30px;
+}
+
+.card img{
+	width: 100%;
+}
+
+.card h2, .card h3{
+	padding-left: 30px;
+	margin: 19px 0px 19px 0px;
+}
